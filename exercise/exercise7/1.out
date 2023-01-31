@@ -1,0 +1,11 @@
+salaried employee: John
+weekly salary: 800
+earned $800
+
+commission employee: Sue
+gross sales: 10000; commission rate: 0.06
+earned $600
+
+base-salaried commission employee: Bob
+gross sales: 5000; commission rate: 0.04; base salary: 300
+earned $500
